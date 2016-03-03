@@ -10,6 +10,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [QCon Sao Paulo](http://qconsp.com/) | **March 28 - April 1** | Sao Paulo
 * [Alagoas Dev Day](http://alagoasdevday.com.br/) | **April** | Alagoas
 * [K-Tab](http://www.k-tab.com.br/) | **April 4** | Recife
+* [FLISOL Curitiba](http://softwarelivre.org/flisol2016-curitiba/) | **April 16** | Curitiba
 * [TechParty](http://techparty.faccat.br/) | **April 25-28** | Taquara
 * [#HelloWorld Sao Paulo](https://helloworldsaopaulo.splashthat.com/) | **May 10** | Sao Paulo
 * [TDC Florianopolis](http://www.thedevelopersconference.com.br/) | **May 12-14** | Florianopolis
